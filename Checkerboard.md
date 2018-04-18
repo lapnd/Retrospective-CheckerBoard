@@ -30,5 +30,6 @@
 
 ##### 5. How could you improve going forward? What don't you still understand that was required for the challenge?
 ```sh
-* I could make my code more compact and more effient. I don't understand why the JavaFX sometime make weird result even I   implemented correctly.
+* I could make my code more compact and more effient to make the code run faster and more resposive. I don't understand why the 
+  JavaFX sometime make weird result even I implemented correctly. 
 ```
