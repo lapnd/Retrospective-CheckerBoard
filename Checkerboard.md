@@ -1,6 +1,6 @@
 # Retrospective-CheckerBoard
 
-## This retrospective is to have you reflect on the work you did and compare it to the solution provided below.
+### This retrospective is to have you reflect on the work you did and compare it to the solution provided below.
 
 #### 1. Reflect on (think about) the work you did for the challenge. How did you do? What did you get right? What did you get wrong? What did you do differently (and possibly better) than what was posted in the solution? What was hard to do?
 ```sh
