@@ -1,4 +1,6 @@
 # Retrospective-CheckerBoard
+By Nijaporn Hotrabhavanadna 
+Link: https://github.com/NikkiH888/Retrospective-CheckerBoard.git
 
 #### This retrospective is to have you reflect on the work you did and compare it to the solution provided below.
 
