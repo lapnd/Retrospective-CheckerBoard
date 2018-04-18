@@ -28,7 +28,7 @@
   instead of one whole pagake like the solution.
 ```
 
-##### 5. How could you improve going forward? What don't you still understand that was required for the challenge? The following is a solution to the challenge.
+##### 5. How could you improve going forward? What don't you still understand that was required for the challenge?
 ```sh
-
+* I could make my code more compact and more effient. I don't understand why the JavaFX sometime make weird result even I   implemented correctly.
 ```
