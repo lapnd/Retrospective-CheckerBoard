@@ -18,11 +18,12 @@
 
 ##### 3. How well did you meet the requirements as set out in the challenge? What requirements did you not meet correctly (if any)?
 ```sh
-
+* I think I met the challege requirements since my implementation looks pretty similar to the solution that was given. 
 ```
 
 ##### 4. How well does your solution match the posted solution? What is different?
 ```sh
+* 
 ```
 
 ##### 5. How could you improve going forward? What don't you still understand that was required for the challenge? The following is a solution to the challenge.
